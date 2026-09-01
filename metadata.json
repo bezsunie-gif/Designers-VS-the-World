@@ -1,0 +1,6 @@
+{
+  "name": "Work-Life Odyssey: 40-Hour Sprint",
+  "description": "A Mario-style retro platformer with power-ups, hidden levels, work tasks, and real-life obstacles where you strive to complete a 40-hour work week with high task quality and balanced choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
